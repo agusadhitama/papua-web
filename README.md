@@ -5,7 +5,7 @@
 Website editorial multi-halaman yang mendokumentasikan kekayaan **budaya dan seni Papua** dari ukiran Asmat yang mendunia, ritual Bakar Batu, Noken berwarisan UNESCO, hingga tari-tarian sakral yang masih hidup hingga hari ini.
 
 ---
-[LINKNYA KLIK DISINI MENO](}
+[LINKNYA KLIK DISINI MENO](https://agusadhitama.github.io/papua-web/)
 ---
 
 ## Preview
