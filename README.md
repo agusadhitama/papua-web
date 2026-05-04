@@ -107,6 +107,6 @@ Informasi dalam website ini bersumber dari pengetahuan umum tentang kebudayaan P
 
 `You don't need a framework to build something meaningful.`
 
-© 2025 · Semua konten dihormati sebagaimana mestinya
+© 2026 · Semua konten dihormati sebagaimana mestinya
 
 </div>
